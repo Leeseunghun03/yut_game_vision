@@ -1,0 +1,4 @@
+float32[4] pick_pos # x, y, z, angle
+uint8 place_num
+---
+bool result

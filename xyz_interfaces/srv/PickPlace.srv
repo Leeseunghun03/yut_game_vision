@@ -1,0 +1,12 @@
+float32[4] pick_pos # x, y, z, angle
+float32[4] place_pos # x, y, z, angle
+
+---
+bool result
+
+
+# int8 impossible_to_pick=1
+# int8 impossible_to_place=2
+# int8 none_pick_object=3
+
+int8 failure_code

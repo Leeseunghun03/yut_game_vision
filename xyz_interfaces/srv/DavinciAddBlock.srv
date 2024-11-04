@@ -1,0 +1,8 @@
+uint8 player_idx
+
+uint8 pos
+Color color
+
+---
+
+bool success

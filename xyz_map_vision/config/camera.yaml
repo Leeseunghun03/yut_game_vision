@@ -1,0 +1,6 @@
+xyz_map_vision_node:
+  ros__parameters:
+    camera_topic: "/camera/my_d455/color/image_raw"
+    camera_info_topic: "/camera/my_d455/aligned_depth_to_color/camera_info"
+    depth_camera_topic: "/camera/my_d455/aligned_depth_to_color/image_raw"
+    command_topic: "/map_vision/command"

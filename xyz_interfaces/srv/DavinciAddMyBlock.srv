@@ -1,0 +1,6 @@
+Color color
+uint8 number
+
+---
+
+bool success

@@ -1,0 +1,79 @@
+[0.025s] Invoking command in '/home/sh/ros2_ws/src/xyz_yut_vision/build/xyz_yut_vision': CMAKE_PREFIX_PATH=/home/sh/ros2_humble/install/rqt_bag_plugins:/home/sh/ros2_humble/install/rqt_bag:/home/sh/ros2_humble/install/launch_testing_examples:/home/sh/ros2_humble/install/ros2bag:/home/sh/ros2_humble/install/tracetools_test:/home/sh/ros2_humble/install/tracetools_launch:/home/sh/ros2_humble/install/topic_monitor:/home/sh/ros2_humble/install/tf2_tools:/home/sh/ros2_humble/install/examples_tf2_py:/home/sh/ros2_humble/install/tf2_ros_py:/home/sh/ros2_humble/install/sros2:/home/sh/ros2_humble/install/rqt_topic:/home/sh/ros2_humble/install/rqt_srv:/home/sh/ros2_humble/install/rqt_shell:/home/sh/ros2_humble/install/rqt_service_caller:/home/sh/ros2_humble/install/rqt_reconfigure:/home/sh/ros2_humble/install/rqt_py_console:/home/sh/ros2_humble/install/rqt_publisher:/home/sh/ros2_humble/install/rqt_plot:/home/sh/ros2_humble/install/rqt_action:/home/sh/ros2_humble/install/rqt_msg:/home/sh/ros2_humble/install/rqt_console:/home/sh/ros2_humble/install/rqt:/home/sh/ros2_humble/install/rqt_graph:/home/sh/ros2_humble/install/rqt_gui_py:/home/sh/ros2_humble/install/rqt_gui:/home/sh/ros2_humble/install/ros2trace:/home/sh/ros2_humble/install/ros2topic:/home/sh/ros2_humble/install/ros2test:/home/sh/ros2_humble/install/ros2component:/home/sh/ros2_humble/install/ros2param:/home/sh/ros2_humble/install/ros2lifecycle:/home/sh/ros2_humble/install/ros2service:/home/sh/ros2_humble/install/ros2run:/home/sh/ros2_humble/install/ros2launch:/home/sh/ros2_humble/install/ros2pkg:/home/sh/ros2_humble/install/ros2node:/home/sh/ros2_humble/install/ros2multicast:/home/sh/ros2_humble/install/ros2interface:/home/sh/ros2_humble/install/ros2doctor:/home/sh/ros2_humble/install/ros2action:/home/sh/ros2_humble/install/ros2cli:/home/sh/ros2_humble/install/quality_of_service_demo_py:/home/sh/ros2_humble/install/lifecycle_py:/home/sh/ros2_humble/install/launch_testing_ros:/home/sh/ros2_humble/install/launch_ros:/home/sh/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/sh/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/sh/ros2_humble/install/examples_rclpy_minimal_service:/home/sh/ros2_humble/install/examples_rclpy_minimal_publisher:/home/sh/ros2_humble/install/examples_rclpy_minimal_client:/home/sh/ros2_humble/install/examples_rclpy_minimal_action_server:/home/sh/ros2_humble/install/examples_rclpy_minimal_action_client:/home/sh/ros2_humble/install/examples_rclpy_guard_conditions:/home/sh/ros2_humble/install/examples_rclpy_executors:/home/sh/ros2_humble/install/demo_nodes_py:/home/sh/ros2_humble/install/action_tutorials_py:/home/sh/ros2_humble/install/ament_uncrustify:/home/sh/ros2_humble/install/tracetools_trace:/home/sh/ros2_humble/install/tracetools_read:/home/sh/ros2_humble/install/test_tracetools_launch:/home/sh/ros2_humble/install/test_launch_ros:/home/sh/ros2_humble/install/sensor_msgs_py:/home/sh/ros2_humble/install/rpyutils:/home/sh/ros2_humble/install/rosidl_runtime_py:/home/sh/ros2_humble/install/rosidl_cli:/home/sh/ros2_humble/install/launch_pytest:/home/sh/ros2_humble/install/launch_testing:/home/sh/ros2_humble/install/launch_yaml:/home/sh/ros2_humble/install/launch_xml:/home/sh/ros2_humble/install/launch:/home/sh/ros2_humble/install/osrf_pycommon:/home/sh/ros2_humble/install/domain_coordinator:/home/sh/ros2_humble/install/ament_xmllint:/home/sh/ros2_humble/install/ament_pyflakes:/home/sh/ros2_humble/install/ament_pycodestyle:/home/sh/ros2_humble/install/ament_pep257:/home/sh/ros2_humble/install/ament_pclint:/home/sh/ros2_humble/install/ament_package:/home/sh/ros2_humble/install/ament_mypy:/home/sh/ros2_humble/install/ament_lint_cmake:/home/sh/ros2_humble/install/ament_flake8:/home/sh/ros2_humble/install/ament_copyright:/home/sh/ros2_humble/install/ament_lint:/home/sh/ros2_humble/install/ament_index_python:/home/sh/ros2_humble/install/ament_cpplint:/home/sh/ros2_humble/install/ament_cppcheck:/home/sh/ros2_humble/install/ament_clang_tidy:/home/sh/ros2_humble/install/ament_clang_format:${CMAKE_PREFIX_PATH} /usr/bin/cmake /home/sh/ros2_ws/src/xyz_yut_vision -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sh/ros2_ws/src/xyz_yut_vision/install/xyz_yut_vision
+[0.047s] -- Found ament_cmake: 1.3.10 (/home/sh/ros2_humble/install/ament_cmake/share/ament_cmake/cmake)
+[1.391s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.397s] -- Found rclcpp: 16.0.10 (/home/sh/ros2_humble/install/rclcpp/share/rclcpp/cmake)
+[1.424s] -- Found rosidl_generator_c: 3.1.5 (/home/sh/ros2_humble/install/rosidl_generator_c/share/rosidl_generator_c/cmake)
+[1.426s] -- Found rosidl_adapter: 3.1.5 (/home/sh/ros2_humble/install/rosidl_adapter/share/rosidl_adapter/cmake)
+[1.431s] -- Found rosidl_generator_cpp: 3.1.5 (/home/sh/ros2_humble/install/rosidl_generator_cpp/share/rosidl_generator_cpp/cmake)
+[1.459s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_introspection_c;rosidl_typesupport_fastrtps_c
+[1.488s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_introspection_cpp;rosidl_typesupport_fastrtps_cpp
+[1.536s] -- Found rmw_implementation_cmake: 6.1.2 (/home/sh/ros2_humble/install/rmw_implementation_cmake/share/rmw_implementation_cmake/cmake)
+[1.556s] -- Found rmw_fastrtps_cpp: 6.2.7 (/home/sh/ros2_humble/install/rmw_fastrtps_cpp/share/rmw_fastrtps_cpp/cmake)
+[1.717s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.107s] -- Configuring done
+[2.109s] CMake Error at CMakeLists.txt:20 (add_executable):
+[2.109s]   Target "yut_vision_master" links to target
+[2.109s]   "rosgraph_msgs::rosgraph_msgs__rosidl_generator_c" but the target was not
+[2.109s]   found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+[2.109s]   an ALIAS target is missing?
+[2.109s] 
+[2.109s] 
+[2.109s] CMake Error at CMakeLists.txt:20 (add_executable):
+[2.109s]   Target "yut_vision_master" links to target
+[2.109s]   "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_fastrtps_c" but the
+[2.109s]   target was not found.  Perhaps a find_package() call is missing for an
+[2.109s]   IMPORTED target, or an ALIAS target is missing?
+[2.109s] 
+[2.109s] 
+[2.109s] CMake Error at CMakeLists.txt:20 (add_executable):
+[2.109s]   Target "yut_vision_master" links to target
+[2.109s]   "rosgraph_msgs::rosgraph_msgs__rosidl_generator_cpp" but the target was not
+[2.109s]   found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+[2.109s]   an ALIAS target is missing?
+[2.109s] 
+[2.109s] 
+[2.109s] CMake Error at CMakeLists.txt:20 (add_executable):
+[2.109s]   Target "yut_vision_master" links to target
+[2.110s]   "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_fastrtps_cpp" but the
+[2.110s]   target was not found.  Perhaps a find_package() call is missing for an
+[2.110s]   IMPORTED target, or an ALIAS target is missing?
+[2.110s] 
+[2.110s] 
+[2.110s] CMake Error at CMakeLists.txt:20 (add_executable):
+[2.110s]   Target "yut_vision_master" links to target
+[2.110s]   "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_introspection_c" but the
+[2.110s]   target was not found.  Perhaps a find_package() call is missing for an
+[2.110s]   IMPORTED target, or an ALIAS target is missing?
+[2.110s] 
+[2.110s] 
+[2.110s] CMake Error at CMakeLists.txt:20 (add_executable):
+[2.110s]   Target "yut_vision_master" links to target
+[2.110s]   "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_c" but the target was not
+[2.110s]   found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+[2.110s]   an ALIAS target is missing?
+[2.110s] 
+[2.110s] 
+[2.110s] CMake Error at CMakeLists.txt:20 (add_executable):
+[2.110s]   Target "yut_vision_master" links to target
+[2.110s]   "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_introspection_cpp" but
+[2.110s]   the target was not found.  Perhaps a find_package() call is missing for an
+[2.110s]   IMPORTED target, or an ALIAS target is missing?
+[2.110s] 
+[2.110s] 
+[2.110s] CMake Error at CMakeLists.txt:20 (add_executable):
+[2.110s]   Target "yut_vision_master" links to target
+[2.110s]   "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_cpp" but the target was
+[2.110s]   not found.  Perhaps a find_package() call is missing for an IMPORTED
+[2.111s]   target, or an ALIAS target is missing?
+[2.111s] 
+[2.111s] 
+[2.111s] CMake Error at CMakeLists.txt:20 (add_executable):
+[2.111s]   Target "yut_vision_master" links to target
+[2.111s]   "rosgraph_msgs::rosgraph_msgs__rosidl_generator_py" but the target was not
+[2.111s]   found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+[2.111s]   an ALIAS target is missing?
+[2.111s] 
+[2.111s] 
+[2.139s] -- Generating done
+[2.142s] CMake Generate step failed.  Build files cannot be regenerated correctly.
+[2.151s] Invoked command in '/home/sh/ros2_ws/src/xyz_yut_vision/build/xyz_yut_vision' returned '1': CMAKE_PREFIX_PATH=/home/sh/ros2_humble/install/rqt_bag_plugins:/home/sh/ros2_humble/install/rqt_bag:/home/sh/ros2_humble/install/launch_testing_examples:/home/sh/ros2_humble/install/ros2bag:/home/sh/ros2_humble/install/tracetools_test:/home/sh/ros2_humble/install/tracetools_launch:/home/sh/ros2_humble/install/topic_monitor:/home/sh/ros2_humble/install/tf2_tools:/home/sh/ros2_humble/install/examples_tf2_py:/home/sh/ros2_humble/install/tf2_ros_py:/home/sh/ros2_humble/install/sros2:/home/sh/ros2_humble/install/rqt_topic:/home/sh/ros2_humble/install/rqt_srv:/home/sh/ros2_humble/install/rqt_shell:/home/sh/ros2_humble/install/rqt_service_caller:/home/sh/ros2_humble/install/rqt_reconfigure:/home/sh/ros2_humble/install/rqt_py_console:/home/sh/ros2_humble/install/rqt_publisher:/home/sh/ros2_humble/install/rqt_plot:/home/sh/ros2_humble/install/rqt_action:/home/sh/ros2_humble/install/rqt_msg:/home/sh/ros2_humble/install/rqt_console:/home/sh/ros2_humble/install/rqt:/home/sh/ros2_humble/install/rqt_graph:/home/sh/ros2_humble/install/rqt_gui_py:/home/sh/ros2_humble/install/rqt_gui:/home/sh/ros2_humble/install/ros2trace:/home/sh/ros2_humble/install/ros2topic:/home/sh/ros2_humble/install/ros2test:/home/sh/ros2_humble/install/ros2component:/home/sh/ros2_humble/install/ros2param:/home/sh/ros2_humble/install/ros2lifecycle:/home/sh/ros2_humble/install/ros2service:/home/sh/ros2_humble/install/ros2run:/home/sh/ros2_humble/install/ros2launch:/home/sh/ros2_humble/install/ros2pkg:/home/sh/ros2_humble/install/ros2node:/home/sh/ros2_humble/install/ros2multicast:/home/sh/ros2_humble/install/ros2interface:/home/sh/ros2_humble/install/ros2doctor:/home/sh/ros2_humble/install/ros2action:/home/sh/ros2_humble/install/ros2cli:/home/sh/ros2_humble/install/quality_of_service_demo_py:/home/sh/ros2_humble/install/lifecycle_py:/home/sh/ros2_humble/install/launch_testing_ros:/home/sh/ros2_humble/install/launch_ros:/home/sh/ros2_humble/install/examples_rclpy_pointcloud_publisher:/home/sh/ros2_humble/install/examples_rclpy_minimal_subscriber:/home/sh/ros2_humble/install/examples_rclpy_minimal_service:/home/sh/ros2_humble/install/examples_rclpy_minimal_publisher:/home/sh/ros2_humble/install/examples_rclpy_minimal_client:/home/sh/ros2_humble/install/examples_rclpy_minimal_action_server:/home/sh/ros2_humble/install/examples_rclpy_minimal_action_client:/home/sh/ros2_humble/install/examples_rclpy_guard_conditions:/home/sh/ros2_humble/install/examples_rclpy_executors:/home/sh/ros2_humble/install/demo_nodes_py:/home/sh/ros2_humble/install/action_tutorials_py:/home/sh/ros2_humble/install/ament_uncrustify:/home/sh/ros2_humble/install/tracetools_trace:/home/sh/ros2_humble/install/tracetools_read:/home/sh/ros2_humble/install/test_tracetools_launch:/home/sh/ros2_humble/install/test_launch_ros:/home/sh/ros2_humble/install/sensor_msgs_py:/home/sh/ros2_humble/install/rpyutils:/home/sh/ros2_humble/install/rosidl_runtime_py:/home/sh/ros2_humble/install/rosidl_cli:/home/sh/ros2_humble/install/launch_pytest:/home/sh/ros2_humble/install/launch_testing:/home/sh/ros2_humble/install/launch_yaml:/home/sh/ros2_humble/install/launch_xml:/home/sh/ros2_humble/install/launch:/home/sh/ros2_humble/install/osrf_pycommon:/home/sh/ros2_humble/install/domain_coordinator:/home/sh/ros2_humble/install/ament_xmllint:/home/sh/ros2_humble/install/ament_pyflakes:/home/sh/ros2_humble/install/ament_pycodestyle:/home/sh/ros2_humble/install/ament_pep257:/home/sh/ros2_humble/install/ament_pclint:/home/sh/ros2_humble/install/ament_package:/home/sh/ros2_humble/install/ament_mypy:/home/sh/ros2_humble/install/ament_lint_cmake:/home/sh/ros2_humble/install/ament_flake8:/home/sh/ros2_humble/install/ament_copyright:/home/sh/ros2_humble/install/ament_lint:/home/sh/ros2_humble/install/ament_index_python:/home/sh/ros2_humble/install/ament_cpplint:/home/sh/ros2_humble/install/ament_cppcheck:/home/sh/ros2_humble/install/ament_clang_tidy:/home/sh/ros2_humble/install/ament_clang_format:${CMAKE_PREFIX_PATH} /usr/bin/cmake /home/sh/ros2_ws/src/xyz_yut_vision -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/sh/ros2_ws/src/xyz_yut_vision/install/xyz_yut_vision

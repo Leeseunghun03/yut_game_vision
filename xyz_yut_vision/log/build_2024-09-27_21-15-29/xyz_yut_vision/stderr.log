@@ -1,0 +1,64 @@
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Target "yut_vision_master" links to target
+  "rosgraph_msgs::rosgraph_msgs__rosidl_generator_c" but the target was not
+  found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+  an ALIAS target is missing?
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Target "yut_vision_master" links to target
+  "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_fastrtps_c" but the
+  target was not found.  Perhaps a find_package() call is missing for an
+  IMPORTED target, or an ALIAS target is missing?
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Target "yut_vision_master" links to target
+  "rosgraph_msgs::rosgraph_msgs__rosidl_generator_cpp" but the target was not
+  found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+  an ALIAS target is missing?
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Target "yut_vision_master" links to target
+  "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_fastrtps_cpp" but the
+  target was not found.  Perhaps a find_package() call is missing for an
+  IMPORTED target, or an ALIAS target is missing?
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Target "yut_vision_master" links to target
+  "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_introspection_c" but the
+  target was not found.  Perhaps a find_package() call is missing for an
+  IMPORTED target, or an ALIAS target is missing?
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Target "yut_vision_master" links to target
+  "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_c" but the target was not
+  found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+  an ALIAS target is missing?
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Target "yut_vision_master" links to target
+  "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_introspection_cpp" but
+  the target was not found.  Perhaps a find_package() call is missing for an
+  IMPORTED target, or an ALIAS target is missing?
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Target "yut_vision_master" links to target
+  "rosgraph_msgs::rosgraph_msgs__rosidl_typesupport_cpp" but the target was
+  not found.  Perhaps a find_package() call is missing for an IMPORTED
+  target, or an ALIAS target is missing?
+
+
+CMake Error at CMakeLists.txt:20 (add_executable):
+  Target "yut_vision_master" links to target
+  "rosgraph_msgs::rosgraph_msgs__rosidl_generator_py" but the target was not
+  found.  Perhaps a find_package() call is missing for an IMPORTED target, or
+  an ALIAS target is missing?
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

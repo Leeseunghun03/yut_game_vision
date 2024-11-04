@@ -1,0 +1,9 @@
+uint8 JOKER=12
+
+uint8[] my_numbers
+ColorArray my_colors
+
+ColorArray[] other_colors
+
+---
+bool success
