@@ -2,6 +2,12 @@
 This package is a vision module for a robot Yut game on ROS2.
 This package was used for the autonomous board game robot project.
 
+## Env
+
+1. Ros2 humble
+2. Two Realsense camera
+3. aruco marker
+
 ## Feature
 1. Detect and Extract game map, game piece.
    
@@ -15,8 +21,3 @@ This package was used for the autonomous board game robot project.
    
 ![image](https://github.com/user-attachments/assets/9c90b4c8-1efd-4fff-ab05-0676596aa052)
 
-## Env
-
-1. Ros2 humble
-2. Two Realsense camera
-3. aruco marker
