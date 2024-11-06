@@ -5,7 +5,7 @@ This package was used for the autonomous board game robot project.
 ## Feature
 1. Detect and Extract game map, game piece.
    
-![image](https://github.com/user-attachments/assets/9b789760-61c1-41bc-a1f7-aa19de5aae27)
+![image](https://github.com/user-attachments/assets/7792feb2-df37-4a4e-95ed-13a4ef4285c3)
 
 2. Numbering yut piece and extract position and degree. (Back flip pieces)
    
