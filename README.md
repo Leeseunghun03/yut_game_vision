@@ -20,7 +20,3 @@ This package was used for the autonomous board game robot project.
 1. Ros2 humble
 2. Two Realsense camera
 3. aruco marker
-
-## Video
-
-ㅁㅁ
