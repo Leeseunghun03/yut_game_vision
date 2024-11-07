@@ -21,3 +21,20 @@ This package was used for the autonomous board game robot project.
    
 ![image](https://github.com/user-attachments/assets/9c90b4c8-1efd-4fff-ab05-0676596aa052)
 
+## How to Use
+
+Realsense ros package (just example)
+
+```
+ros2 launch realsense2_camera rs_align_depth_launch.py camera_name:=my_d455 device_type:=d455
+```
+
+```
+ros2 launch realsense2_camera rs_align_depth_launch.py camera_name:=my_d455 device_type:=d455
+```
+
+Launch
+
+```
+ros2 launch xyz_yut_vision
+```
