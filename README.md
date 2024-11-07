@@ -36,5 +36,9 @@ ros2 launch realsense2_camera rs_align_depth_launch.py camera_name:=my_d455 devi
 Launch
 
 ```
-ros2 launch xyz_yut_vision
+ros2 launch xyz_yut_vision start.py
+```
+
+```
+ros2 launch xyz_map_vision start.py
 ```
