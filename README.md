@@ -2,6 +2,8 @@
 This package is a vision module for a robot Yut game on ROS2.
 This package was used for the autonomous board game robot project.
 
+엑스와이지 인간-로봇 상호작용 기술 구현 챌린지 한국산업기술진흥원 원장상
+
 ## Env
 
 1. Ros2 humble
