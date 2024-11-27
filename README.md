@@ -4,7 +4,7 @@ This package is a vision module for a robot Yut game on ROS2.
 ## Info
  o 대회 : 엑스와이지 인간-로봇 상호작용 기술 구현 챌린지 
          
-         (XYZ Human-Robot Interaction Technology Implementation Challenge)
+ (XYZ Human-Robot Interaction Technology Implementation Challenge)
  
  o 주최 : 산업통상자원부
  
