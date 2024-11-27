@@ -1,8 +1,18 @@
 # yut_game_vision
 This package is a vision module for a robot Yut game on ROS2.
+
 This package was used for the autonomous board game robot project.
 
-엑스와이지 인간-로봇 상호작용 기술 구현 챌린지 한국산업기술진흥원 원장상
+## 엑스와이지 인간-로봇 상호작용 기술 구현 챌린지 (XYZ Human-Robot Interaction Technology Implementation Challenge)
+ o 주최 : 산업통상자원부
+ 
+ o 주관 : 한국로봇산업진흥원, 한국로봇산업협회
+ 
+ o 세부주관 : (주)엑스와이지
+ 
+ o 후원 : 푸드테크로봇협의회
+ 
+ o 결과 : 한국로봇산업기술진흥원 원장상
 
 ## Env
 
